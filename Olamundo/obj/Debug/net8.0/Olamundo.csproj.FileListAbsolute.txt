@@ -1,0 +1,14 @@
+C:\Users\jean.lgsantos\source\repos\Olamundo\bin\Debug\net8.0\Olamundo.exe
+C:\Users\jean.lgsantos\source\repos\Olamundo\bin\Debug\net8.0\Olamundo.deps.json
+C:\Users\jean.lgsantos\source\repos\Olamundo\bin\Debug\net8.0\Olamundo.runtimeconfig.json
+C:\Users\jean.lgsantos\source\repos\Olamundo\bin\Debug\net8.0\Olamundo.dll
+C:\Users\jean.lgsantos\source\repos\Olamundo\bin\Debug\net8.0\Olamundo.pdb
+C:\Users\jean.lgsantos\source\repos\Olamundo\obj\Debug\net8.0\Olamundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jean.lgsantos\source\repos\Olamundo\obj\Debug\net8.0\Olamundo.AssemblyInfoInputs.cache
+C:\Users\jean.lgsantos\source\repos\Olamundo\obj\Debug\net8.0\Olamundo.AssemblyInfo.cs
+C:\Users\jean.lgsantos\source\repos\Olamundo\obj\Debug\net8.0\Olamundo.csproj.CoreCompileInputs.cache
+C:\Users\jean.lgsantos\source\repos\Olamundo\obj\Debug\net8.0\Olamundo.dll
+C:\Users\jean.lgsantos\source\repos\Olamundo\obj\Debug\net8.0\refint\Olamundo.dll
+C:\Users\jean.lgsantos\source\repos\Olamundo\obj\Debug\net8.0\Olamundo.pdb
+C:\Users\jean.lgsantos\source\repos\Olamundo\obj\Debug\net8.0\Olamundo.genruntimeconfig.cache
+C:\Users\jean.lgsantos\source\repos\Olamundo\obj\Debug\net8.0\ref\Olamundo.dll

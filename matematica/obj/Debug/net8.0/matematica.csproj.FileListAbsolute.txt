@@ -1,0 +1,14 @@
+C:\Users\jean.lgsantos\source\repos\matematica\bin\Debug\net8.0\matematica.exe
+C:\Users\jean.lgsantos\source\repos\matematica\bin\Debug\net8.0\matematica.deps.json
+C:\Users\jean.lgsantos\source\repos\matematica\bin\Debug\net8.0\matematica.runtimeconfig.json
+C:\Users\jean.lgsantos\source\repos\matematica\bin\Debug\net8.0\matematica.dll
+C:\Users\jean.lgsantos\source\repos\matematica\bin\Debug\net8.0\matematica.pdb
+C:\Users\jean.lgsantos\source\repos\matematica\obj\Debug\net8.0\matematica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jean.lgsantos\source\repos\matematica\obj\Debug\net8.0\matematica.AssemblyInfoInputs.cache
+C:\Users\jean.lgsantos\source\repos\matematica\obj\Debug\net8.0\matematica.AssemblyInfo.cs
+C:\Users\jean.lgsantos\source\repos\matematica\obj\Debug\net8.0\matematica.csproj.CoreCompileInputs.cache
+C:\Users\jean.lgsantos\source\repos\matematica\obj\Debug\net8.0\matematica.dll
+C:\Users\jean.lgsantos\source\repos\matematica\obj\Debug\net8.0\refint\matematica.dll
+C:\Users\jean.lgsantos\source\repos\matematica\obj\Debug\net8.0\matematica.pdb
+C:\Users\jean.lgsantos\source\repos\matematica\obj\Debug\net8.0\matematica.genruntimeconfig.cache
+C:\Users\jean.lgsantos\source\repos\matematica\obj\Debug\net8.0\ref\matematica.dll
