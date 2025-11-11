@@ -1,0 +1,15 @@
+C:\Users\jean.lgsantos\source\repos\maratonadec#-pt1\obj\Debug\net8.0\maratonadec#-pt1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jean.lgsantos\source\repos\maratonadec#-pt1\obj\Debug\net8.0\maratonadec#-pt1.AssemblyInfoInputs.cache
+C:\Users\jean.lgsantos\source\repos\maratonadec#-pt1\obj\Debug\net8.0\maratonadec#-pt1.AssemblyInfo.cs
+C:\Users\jean.lgsantos\source\repos\maratonadec#-pt1\obj\Debug\net8.0\maratonadec#-pt1.csproj.CoreCompileInputs.cache
+C:\Users\jean.lgsantos\source\repos\maratonadec#-pt1\obj\Debug\net8.0\maratonadec#-pt1.sourcelink.json
+C:\Users\jean.lgsantos\source\repos\maratonadec#-pt1\bin\Debug\net8.0\maratonadec#-pt1.exe
+C:\Users\jean.lgsantos\source\repos\maratonadec#-pt1\bin\Debug\net8.0\maratonadec#-pt1.deps.json
+C:\Users\jean.lgsantos\source\repos\maratonadec#-pt1\bin\Debug\net8.0\maratonadec#-pt1.runtimeconfig.json
+C:\Users\jean.lgsantos\source\repos\maratonadec#-pt1\bin\Debug\net8.0\maratonadec#-pt1.dll
+C:\Users\jean.lgsantos\source\repos\maratonadec#-pt1\bin\Debug\net8.0\maratonadec#-pt1.pdb
+C:\Users\jean.lgsantos\source\repos\maratonadec#-pt1\obj\Debug\net8.0\maratonadec#-pt1.dll
+C:\Users\jean.lgsantos\source\repos\maratonadec#-pt1\obj\Debug\net8.0\refint\maratonadec#-pt1.dll
+C:\Users\jean.lgsantos\source\repos\maratonadec#-pt1\obj\Debug\net8.0\maratonadec#-pt1.pdb
+C:\Users\jean.lgsantos\source\repos\maratonadec#-pt1\obj\Debug\net8.0\maratonadec#-pt1.genruntimeconfig.cache
+C:\Users\jean.lgsantos\source\repos\maratonadec#-pt1\obj\Debug\net8.0\ref\maratonadec#-pt1.dll
