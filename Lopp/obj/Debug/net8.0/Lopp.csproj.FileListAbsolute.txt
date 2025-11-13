@@ -1,0 +1,15 @@
+C:\Users\jean.lgsantos\source\repos\Lopp\bin\Debug\net8.0\Lopp.exe
+C:\Users\jean.lgsantos\source\repos\Lopp\bin\Debug\net8.0\Lopp.deps.json
+C:\Users\jean.lgsantos\source\repos\Lopp\bin\Debug\net8.0\Lopp.runtimeconfig.json
+C:\Users\jean.lgsantos\source\repos\Lopp\bin\Debug\net8.0\Lopp.dll
+C:\Users\jean.lgsantos\source\repos\Lopp\bin\Debug\net8.0\Lopp.pdb
+C:\Users\jean.lgsantos\source\repos\Lopp\obj\Debug\net8.0\Lopp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jean.lgsantos\source\repos\Lopp\obj\Debug\net8.0\Lopp.AssemblyInfoInputs.cache
+C:\Users\jean.lgsantos\source\repos\Lopp\obj\Debug\net8.0\Lopp.AssemblyInfo.cs
+C:\Users\jean.lgsantos\source\repos\Lopp\obj\Debug\net8.0\Lopp.csproj.CoreCompileInputs.cache
+C:\Users\jean.lgsantos\source\repos\Lopp\obj\Debug\net8.0\Lopp.sourcelink.json
+C:\Users\jean.lgsantos\source\repos\Lopp\obj\Debug\net8.0\Lopp.dll
+C:\Users\jean.lgsantos\source\repos\Lopp\obj\Debug\net8.0\refint\Lopp.dll
+C:\Users\jean.lgsantos\source\repos\Lopp\obj\Debug\net8.0\Lopp.pdb
+C:\Users\jean.lgsantos\source\repos\Lopp\obj\Debug\net8.0\Lopp.genruntimeconfig.cache
+C:\Users\jean.lgsantos\source\repos\Lopp\obj\Debug\net8.0\ref\Lopp.dll
