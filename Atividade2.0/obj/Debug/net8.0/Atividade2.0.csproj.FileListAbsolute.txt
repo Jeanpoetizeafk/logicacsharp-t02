@@ -1,0 +1,15 @@
+C:\Users\jean.lgsantos\source\repos\Atividade2.0\bin\Debug\net8.0\Atividade2.0.exe
+C:\Users\jean.lgsantos\source\repos\Atividade2.0\bin\Debug\net8.0\Atividade2.0.deps.json
+C:\Users\jean.lgsantos\source\repos\Atividade2.0\bin\Debug\net8.0\Atividade2.0.runtimeconfig.json
+C:\Users\jean.lgsantos\source\repos\Atividade2.0\bin\Debug\net8.0\Atividade2.0.dll
+C:\Users\jean.lgsantos\source\repos\Atividade2.0\bin\Debug\net8.0\Atividade2.0.pdb
+C:\Users\jean.lgsantos\source\repos\Atividade2.0\obj\Debug\net8.0\Atividade2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jean.lgsantos\source\repos\Atividade2.0\obj\Debug\net8.0\Atividade2.0.AssemblyInfoInputs.cache
+C:\Users\jean.lgsantos\source\repos\Atividade2.0\obj\Debug\net8.0\Atividade2.0.AssemblyInfo.cs
+C:\Users\jean.lgsantos\source\repos\Atividade2.0\obj\Debug\net8.0\Atividade2.0.csproj.CoreCompileInputs.cache
+C:\Users\jean.lgsantos\source\repos\Atividade2.0\obj\Debug\net8.0\Atividade2.0.sourcelink.json
+C:\Users\jean.lgsantos\source\repos\Atividade2.0\obj\Debug\net8.0\Atividade2.0.dll
+C:\Users\jean.lgsantos\source\repos\Atividade2.0\obj\Debug\net8.0\refint\Atividade2.0.dll
+C:\Users\jean.lgsantos\source\repos\Atividade2.0\obj\Debug\net8.0\Atividade2.0.pdb
+C:\Users\jean.lgsantos\source\repos\Atividade2.0\obj\Debug\net8.0\Atividade2.0.genruntimeconfig.cache
+C:\Users\jean.lgsantos\source\repos\Atividade2.0\obj\Debug\net8.0\ref\Atividade2.0.dll
