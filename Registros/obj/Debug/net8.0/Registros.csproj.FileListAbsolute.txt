@@ -1,0 +1,15 @@
+C:\Users\jean.lgsantos\source\repos\Registros\obj\Debug\net8.0\Registros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jean.lgsantos\source\repos\Registros\obj\Debug\net8.0\Registros.AssemblyInfoInputs.cache
+C:\Users\jean.lgsantos\source\repos\Registros\obj\Debug\net8.0\Registros.AssemblyInfo.cs
+C:\Users\jean.lgsantos\source\repos\Registros\obj\Debug\net8.0\Registros.csproj.CoreCompileInputs.cache
+C:\Users\jean.lgsantos\source\repos\Registros\obj\Debug\net8.0\Registros.sourcelink.json
+C:\Users\jean.lgsantos\source\repos\Registros\bin\Debug\net8.0\Registros.exe
+C:\Users\jean.lgsantos\source\repos\Registros\bin\Debug\net8.0\Registros.deps.json
+C:\Users\jean.lgsantos\source\repos\Registros\bin\Debug\net8.0\Registros.runtimeconfig.json
+C:\Users\jean.lgsantos\source\repos\Registros\bin\Debug\net8.0\Registros.dll
+C:\Users\jean.lgsantos\source\repos\Registros\bin\Debug\net8.0\Registros.pdb
+C:\Users\jean.lgsantos\source\repos\Registros\obj\Debug\net8.0\Registros.dll
+C:\Users\jean.lgsantos\source\repos\Registros\obj\Debug\net8.0\refint\Registros.dll
+C:\Users\jean.lgsantos\source\repos\Registros\obj\Debug\net8.0\Registros.pdb
+C:\Users\jean.lgsantos\source\repos\Registros\obj\Debug\net8.0\Registros.genruntimeconfig.cache
+C:\Users\jean.lgsantos\source\repos\Registros\obj\Debug\net8.0\ref\Registros.dll

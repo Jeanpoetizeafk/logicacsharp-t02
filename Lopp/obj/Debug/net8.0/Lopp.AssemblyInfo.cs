@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lopp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a5e2c8047809a9efcdbb69697e395e2249d72478")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bac02e6fa1cf12f752c1f611558153bdb63bafe6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lopp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lopp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
