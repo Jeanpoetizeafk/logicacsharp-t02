@@ -1,0 +1,15 @@
+C:\Users\jean.lgsantos\source\repos\classe com heranca\bin\Debug\net8.0\classe com heranca.exe
+C:\Users\jean.lgsantos\source\repos\classe com heranca\bin\Debug\net8.0\classe com heranca.deps.json
+C:\Users\jean.lgsantos\source\repos\classe com heranca\bin\Debug\net8.0\classe com heranca.runtimeconfig.json
+C:\Users\jean.lgsantos\source\repos\classe com heranca\bin\Debug\net8.0\classe com heranca.dll
+C:\Users\jean.lgsantos\source\repos\classe com heranca\bin\Debug\net8.0\classe com heranca.pdb
+C:\Users\jean.lgsantos\source\repos\classe com heranca\obj\Debug\net8.0\classe com heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jean.lgsantos\source\repos\classe com heranca\obj\Debug\net8.0\classe com heranca.AssemblyInfoInputs.cache
+C:\Users\jean.lgsantos\source\repos\classe com heranca\obj\Debug\net8.0\classe com heranca.AssemblyInfo.cs
+C:\Users\jean.lgsantos\source\repos\classe com heranca\obj\Debug\net8.0\classe com heranca.csproj.CoreCompileInputs.cache
+C:\Users\jean.lgsantos\source\repos\classe com heranca\obj\Debug\net8.0\classe com heranca.sourcelink.json
+C:\Users\jean.lgsantos\source\repos\classe com heranca\obj\Debug\net8.0\classe com heranca.dll
+C:\Users\jean.lgsantos\source\repos\classe com heranca\obj\Debug\net8.0\refint\classe com heranca.dll
+C:\Users\jean.lgsantos\source\repos\classe com heranca\obj\Debug\net8.0\classe com heranca.pdb
+C:\Users\jean.lgsantos\source\repos\classe com heranca\obj\Debug\net8.0\classe com heranca.genruntimeconfig.cache
+C:\Users\jean.lgsantos\source\repos\classe com heranca\obj\Debug\net8.0\ref\classe com heranca.dll
